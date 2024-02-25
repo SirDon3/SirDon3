@@ -1,5 +1,5 @@
 
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shadhan;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shadhan;Mastering+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 

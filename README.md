@@ -15,8 +15,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-niyas-mohamed-shadhan-60204a203/" target="_blank" >
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href="https://github.com/SirDon3" target="_blank" >
-<img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

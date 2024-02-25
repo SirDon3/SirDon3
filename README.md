@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shadhan</h1>
-<h3 align="center">Developer from Finland</h3>
-<img alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> 
 
-- 🌱 I’m currently learning **MERN stack**
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shadhan;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+- 🔭 I’m currently mastering  **Full Stack Web Development (MERN Stack)**
+
+- 🌱 At the moment I’m learning **React**
 
 - 💬 Ask me about **Javascript, Express and NodeJS**
 
@@ -10,6 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/mohamed-niyas-mohamed-shadhan-60204a203/" target="_blank" >
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="https://github.com/SirDon3" target="_blank" >
+<img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

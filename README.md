@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **shadhanmohamed13@gmail.com**
 
+- 📑 My resume is avabible at: <a href="https://drive.google.com/file/d/164K93mUOjy5JHQd-OriUr5TlJJvB2ziM/view?usp=sharing">🗂️👈</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-niyas-mohamed-shadhan-60204a203/" target="_blank" >

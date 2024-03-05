@@ -7,8 +7,6 @@
 
 - 🌱 At the moment I’m learning **React**
 
-- 💬 Ask me about **Javascript, Express and NodeJS**
-
 - 📫 How to reach me **shadhanmohamed13@gmail.com**
 
 - 📑 My resume is available at: <a href="https://drive.google.com/file/d/164K93mUOjy5JHQd-OriUr5TlJJvB2ziM/view?usp=sharing">🗂️👈</a>
